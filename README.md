@@ -1,4 +1,4 @@
-## 1) quality_stats.b - For FASTQ stats
+## 1) quality_stats.b - For FASTQ files
 
 ###Introduction:
 

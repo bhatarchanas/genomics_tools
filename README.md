@@ -51,7 +51,7 @@ Make sure the input file is in FASTQ format.
 Give the full path of the file along with the file name. 
 
 ###Output:
-Total CCS count 
+Total CCS count
 Average CCS count
 Minimum CCS count
 Maximum CCS count
